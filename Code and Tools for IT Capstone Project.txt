@@ -1,0 +1,21 @@
+Code/tools have been used for this project IT Capstone Types of SQL Injection
+
+Tools: 
+Google Chrome Web browser : To access the lab and manually enter the SQL injection queries into the URL bar.
+
+
+Wappalyzer browser add on : To use in the Data Collection chapter to determine what technologies portswigger.net uses.
+
+PortSwigger Web Security Academy : The environment or labs itself.
+
+
+
+Codes:
+
+The Following is an example of one of the SQL injection attacks you personally created and performed : e.g
+
+
+
+' ORDER BY 3--
+' UNION SELECT NULL, NULL--
+' UNION SELECT 'a' ,NULL--
